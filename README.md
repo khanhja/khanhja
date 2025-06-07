@@ -7,14 +7,14 @@ I have a particular interest in analyzing and designing information systems, esp
 Recently, I've also been exploring the field of artificial intelligence and find it fascinating, with a focus on how it can be applied to solve real-world problems. I'm always eager to learn more and improve through hands-on experience and collaboration.
 
 ## Tech Stack
-- <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="30"> FastAPI (Python)
-- <img src="https://spring.io/images/projects/spring-95f110c7.png" width="30"> Spring (Java)
-- <img src="https://vuejs.org/images/logo.png" width="30"> VueJS
-- <img src="https://www.rabbitmq.com/img/logo-rabbitmq.png" width="30"> RabbitMQ
-- <img src="https://kafka.apache.org/images/kafka.png" width="30"> Kafka
-- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="30"> MySQL
-- <img src="https://webassets.mongodb.com/_com_assets/cms/knowledge_graph-7d1wqa1s1o.png" width="30"> MongoDB
-- <img src="https://traefik.io/wp-content/uploads/2022/10/traefik-logo-light.png" width="30"> Traefik
+- <img src="https://cdn.simpleicons.org/fastapi/000000" width="20"> FastAPI (Python)
+- <img src="https://cdn.simpleicons.org/spring/000000" width="20"> Spring (Java)
+- <img src="https://cdn.simpleicons.org/vue.js/000000" width="20"> VueJS
+- <img src="https://cdn.simpleicons.org/rabbitmq/000000" width="20"> RabbitMQ
+- <img src="https://cdn.simpleicons.org/apachekafka/000000" width="20"> Kafka
+- <img src="https://cdn.simpleicons.org/mysql/000000" width="20"> MySQL
+- <img src="https://cdn.simpleicons.org/mongodb/000000" width="20"> MongoDB
+- <img src="https://cdn.simpleicons.org/traefik/000000" width="20"> Traefik
 
 ## Social Media Profiles
 - [GitHub](https://github.com/yourusername)
