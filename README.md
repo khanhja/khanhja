@@ -1,4 +1,4 @@
-## Hi there! ![Waving Hand](https://user-images.githubusercontent.com/74038190/212750223-5b5c0b8b-1d0d-404e-8f68-7d332deb30a4.gif)
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand" />
 
 
 I'm currently a third-year student at the Faculty of Information Technology, Ton Duc Thang University, majoring in Software Engineering.
